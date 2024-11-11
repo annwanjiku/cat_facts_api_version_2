@@ -20,5 +20,5 @@ This page is hosted for viewing—try it out to see the API in action.
 
 ## Improvements
 - Limit the length of facts (e.g., to 50 words or fewer).
-- Set a cap on the number of facts displayed per request.
+- Set a cap on the number of facts displayed per session.
 - Enhance the overall visual design.
