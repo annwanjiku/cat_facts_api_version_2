@@ -1,6 +1,5 @@
 # Cat Facts API Project
 
-## Overview
 This project demonstrates the use of APIs (Application Programming Interfaces) to retrieve and display data, specifically through the "Cat Facts API." The project focuses on practicing API integration and enhancing web development skills by fetching and displaying data in a web interface.
 
 ### What’s an API?
