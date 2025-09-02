@@ -15,7 +15,7 @@ The "Cat Facts API" provides information about cats. You can access it [here](ht
 - Improve web development skills through real-time data integration.
 
 ### Live Demo
-This page is hosted for viewing [here](https://annwanjiku.github.io/CatFactsAPIVersion2_0/)—try it out to see the API in action.
+This page is hosted for viewing [here]((https://annwanjiku.github.io/cat_facts_api_version_2/)—try it out to see the API in action.
 
 ## Improvements
 - Limit the length of facts (e.g., to 50 words or fewer).
